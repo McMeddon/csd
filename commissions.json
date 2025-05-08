@@ -1,6 +1,9 @@
 {
   "status": "open",
+  "_statusDescription": "Indicates if commissions are currently open ('open'), closed ('closed'), or delayed ('delay').",
   "statusMessage": "Commissions are currently open! Looking forward to your ideas.",
   "queue": 5,
-  "completedProjects": 127
+  "_queueDescription": "The number of projects currently in the queue.",
+  "completedProjects": 127,
+  "_completedProjectsDescription": "The total number of commission projects completed."
 }

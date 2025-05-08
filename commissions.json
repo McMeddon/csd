@@ -1,11 +1,3 @@
-{
-  "status": "delay",
-  "statusMessage": "",
-  "queue": 7,
-  "completedProjects": 3
-}
-
-
 /*
 {
   "status": "open", // Possible values: "open", "closed", "delay"
@@ -14,3 +6,13 @@
   "completedProjects": 127
 }
 */
+
+
+{
+  "status": "delay",
+  "statusMessage": "",
+  "queue": 7,
+  "completedProjects": 3
+}
+
+

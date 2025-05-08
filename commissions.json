@@ -1,6 +1,6 @@
 {
-  "status": "closed",
-  "statusMessage": "",
+  "status": "delay",
+  "statusMessage": "Valuable message for the public weeee",
   "queue": 7,
   "completedProjects": 3
 }

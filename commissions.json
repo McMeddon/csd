@@ -1,0 +1,6 @@
+{
+  "status": "open", // Possible values: "open", "closed", "delay"
+  "statusMessage": "Commissions are currently open! Looking forward to your ideas.", // Optional: a more descriptive message
+  "queue": 5,
+  "completedProjects": 127
+}
